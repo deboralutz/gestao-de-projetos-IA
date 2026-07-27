@@ -1,0 +1,14 @@
+# Arquivos locais e credenciais
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Dados que devem permanecer fora do repositório
+**/dados-pessoais/
+**/confidencial/
+**/privado/
+
+# Arquivos do sistema operacional
+.DS_Store
