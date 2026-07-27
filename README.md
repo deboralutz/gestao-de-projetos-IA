@@ -1,6 +1,6 @@
-# Gestão de Projetos com IA
+# Transformação do trabalho com IA
 
-Repositório de estudo e experimentação sobre Inteligência Artificial aplicada à Gestão de Projetos, conectado à construção da Lutz PI e da LICHTARA.
+Repositório de estudo e experimentação sobre como a Inteligência Artificial transforma tarefas, processos, decisões e organizações, conectado à construção da Lutz PI e da LICHTARA.
 
 ## Propósito
 
@@ -9,7 +9,7 @@ Este repositório organiza duas frentes que devem caminhar juntas:
 - o percurso de aprendizagem em oito módulos;
 - a aplicação prática dos conceitos em processos, projetos e sistemas assistidos por IA da Lutz PI.
 
-A IA apoia a organização das informações, a identificação de padrões, a geração de cenários e a execução. A decisão, a responsabilidade e a supervisão continuam humanas.
+A IA apoia a organização das informações, a identificação de padrões, a geração de cenários e a execução. A decisão, a responsabilidade e a supervisão continuam humanas. A Gestão de Projetos é uma das aplicações desse sistema de trabalho.
 
 ## Mapa do repositório
 
